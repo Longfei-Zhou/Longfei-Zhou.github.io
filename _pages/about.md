@@ -14,6 +14,7 @@ I am currently a second-year postdoc in the [Computer Science and Artificial Int
 # Recent Research
 <p align="center">
   <img src="https://longfei-zhou.github.io/files/TII_1.png" alt="DDDS-based Real-time Scheduling" style="width: 450px;"/> 
+  <img src="https://longfei-zhou.github.io/files/TII_1.png" alt="DDDS-based Real-time Scheduling" style="width: 450px;"/> 
 </p>
 
 ## Getting started
