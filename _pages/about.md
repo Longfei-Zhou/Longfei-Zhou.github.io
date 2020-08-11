@@ -13,10 +13,12 @@ I am currently a second-year postdoc in the [Computer Science and Artificial Int
 
 # Recent Research
 
-<table><tr>
-<td><img src="https://longfei-zhou.github.io/files/TII_1.png" alt="DDDS-based Real-time Scheduling" style="height: 100px;" border=0/></td>
-<td><img src="https://longfei-zhou.github.io/files/TII_1.png" alt="DDDS-based Real-time Scheduling" style="height: 100px;" border=0/></td>
-</tr></table>
+<table border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="https://longfei-zhou.github.io/files/TII_1.png" alt="DDDS-based Real-time Scheduling" style="height: 100px;" border=0/></td>
+    <td><img src="https://longfei-zhou.github.io/files/TII_1.png" alt="DDDS-based Real-time Scheduling" style="height: 100px;" border=0/></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://longfei-zhou.github.io/files/TII_1.png" alt="DDDS-based Real-time Scheduling" style="width: 450px;"/> 
