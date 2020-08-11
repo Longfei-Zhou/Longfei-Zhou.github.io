@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://longfei-zhou.github.io/files/longfei_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://longfei-zhou.github.io/files/TII_1.png" alt="Photo" style="width: 450px;"/> 
 </p>
 
 # About Me
