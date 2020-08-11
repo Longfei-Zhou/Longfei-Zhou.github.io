@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a second-year postdoc in the Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology. I received the B.S. degree in automation engineering from Harbin Engineering University, Harbin, China, in 2012, and received the Ph.D. degree in manufacturing engineering from Beihang University, Beijing, China, in 2018. My research interests include intelligent manufacturing, real-time scheduling, discrete system modeling and simulation, computer vision for transportation and medicine. During my PhD, I researched the real-time scheduling problem in cloud manufacturing environment and developed intelligent algorithms and dynamic data-driven simulation methods to improve system performance. At MIT, he develops machine learning and computer vision algorithms for multiple object tracking and medicine image analysis. I serve as one of the chairs of the MIT Postdoc Association (MIT PDA) from 2019 to 2020, and serves in the editorial board of the International Journal of Modeling, Simulation, and Scientific Computing (IJMSSC), and serves as a reviewer for more than 20 academic journals. My awards and honors include the Beijing Municipal Education Commission Outstanding Graduate Award in 2018, and the China Simulation Society Outstanding Doctoral Dissertation Award in 2019..
 
-A data-driven personal website
+Recent News
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
