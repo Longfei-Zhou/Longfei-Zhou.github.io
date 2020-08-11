@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+# Recent Research
 <p align="center">
   <img src="https://longfei-zhou.github.io/files/TII_1.png" alt="Photo" style="width: 450px;"/> 
 </p>
