@@ -83,8 +83,8 @@ author:
   name             : "Dr. Longfei Zhou"
   avatar           : "profile.png"
   bio              : "Postdoc at MIT CSAIL. Research on intelligent manufacturing, computer vision and medical image processing."
-  location         : "Cambridge, MA"
-  employer         : "MIT"
+  location         : "MIT, Massachusetts"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=1B2Sc2oAAAAJ"
   email            : "longfei@mit.edu"
