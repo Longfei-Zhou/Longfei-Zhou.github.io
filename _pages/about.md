@@ -13,9 +13,9 @@ I am currently a second-year postdoc in the [Computer Science and Artificial Int
 
 # Recent Research
 <p align="center">
-  <img src="https://longfei-zhou.github.io/files/TII_1.png" alt="picture" style="width: 400px;"/> 
-  <img src="https://longfei-zhou.github.io/files/RCIM_1.png" alt="picture" style="width: 400px;"/> 
-  <img src="https://longfei-zhou.github.io/files/IJAMT_1.png" alt="picture" style="width: 400px;"/> 
-  <img src="https://longfei-zhou.github.io/files/IJCIM_1.png" alt="picture" style="width: 400px;"/> 
-  <img src="https://longfei-zhou.github.io/files/EIS_1.png" alt="picture" style="width: 400px;"/> 
+  <img src="https://longfei-zhou.github.io/files/TII_1.png" alt="picture" style="width: 300px;"/> 
+  <img src="https://longfei-zhou.github.io/files/RCIM_1.png" alt="picture" style="width: 300px;"/> 
+  <img src="https://longfei-zhou.github.io/files/IJAMT_1.png" alt="picture" style="width: 300px;"/> 
+  <img src="https://longfei-zhou.github.io/files/IJCIM_1.png" alt="picture" style="width: 300px;"/> 
+  <img src="https://longfei-zhou.github.io/files/EIS_1.png" alt="picture" style="width: 300px;"/> 
 </p>
