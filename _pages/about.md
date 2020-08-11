@@ -1,23 +1,25 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<p align="center">
+  <img src="https://longfei-zhou.github.io/files/longfei_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+</p>
+
+# About Me
 I am currently a second-year postdoc in the [Computer Science and Artificial Intelligence Laboratory](https://www.csail.mit.edu/), at [Massachusetts Institute of Technology](https://www.mit.edu/). I received the B.S. degree in automation engineering from Harbin Engineering University, Harbin, China, in 2012, and received the Ph.D. degree in manufacturing engineering from Beihang University, Beijing, China, in 2018. My research interests include intelligent manufacturing, real-time scheduling, discrete system modeling and simulation, computer vision for transportation and medicine. During my PhD, I researched the real-time scheduling problem in cloud manufacturing environment and developed intelligent algorithms and dynamic data-driven simulation methods to improve system performance. At MIT, he develops machine learning and computer vision algorithms for multiple object tracking and medicine image analysis. I serve as one of the chairs of the MIT Postdoc Association (MIT PDA) from 2019 to 2020, and serves in the editorial board of the International Journal of Modeling, Simulation, and Scientific Computing (IJMSSC), and serves as a reviewer for more than 20 academic journals. My awards and honors include the Beijing Municipal Education Commission Outstanding Graduate Award in 2018, and the China Simulation Society Outstanding Doctoral Dissertation Award in 2019.
 
-Recent News
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+# Recent News
+* Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
+## Getting started
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
